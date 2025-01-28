@@ -22,7 +22,7 @@ export default function Sidebar() {
   const location = useLocation();
 
   return (
-    <div className="hidden lg:fixed lg:inset-y-0 lg:flex lg:w-64 lg:flex-col">
+    <div className="hidden lg:fixed lg:inset-y-0 lg:flex lg:w-[14%] lg:flex-col">
       <div className="flex flex-col flex-grow bg-white border-r border-gray-200">
         <div className="flex items-center h-16 flex-shrink-0 px-4 bg-primary">
           <Link to="/" className="flex items-center space-x-2">
