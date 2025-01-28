@@ -14,7 +14,7 @@ import {
   Pie,
   Cell,
 } from 'recharts';
-import { getProducts, getOrders } from '@/lib/storage';
+// import { getProducts, getOrders } from '@/lib/storage';
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042'];
 
